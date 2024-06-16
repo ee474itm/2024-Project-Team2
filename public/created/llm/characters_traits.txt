@@ -1,0 +1,14 @@
+```json
+{
+    "Junhee": {
+        "gender": "female",
+        "age": "24",
+        "personality": ["fearless", "kind", "compassionate"]
+    },
+    "Lion": {
+        "gender": "male",
+        "age": "unknown",
+        "personality": ["grateful", "majestic", "wise"]
+    }
+}
+```

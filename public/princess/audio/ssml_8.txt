@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">In the morning the Queen asked her,</voice></prosody><break time="500ms"/>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-C">"Did you sleep well?"</voice></prosody><break time="500ms"/>
+</speak>

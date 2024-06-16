@@ -1,0 +1,24 @@
+<speak>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">One day he met a pair of Ducks and told them all his trouble.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-C">"We can help you to see the world,"</voice></prosody><break time="500ms"/>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">said the Ducks.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-C">"Take hold of this stick with your teeth and we will carry you far up in the air where you can see the whole countryside. But keep quiet or you will be sorry."</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">The Tortoise was very glad indeed.</voice></prosody><break time="500ms"/>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">He seized the stick firmly with his teeth, the two Ducks took hold of it one at each end, and away they sailed up toward the clouds.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">Just then a Crow flew by.</voice></prosody><break time="500ms"/>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">He was very much astonished at the strange sight and cried,</voice></prosody><break time="500ms"/>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-I">"This must surely be the King of Tortoises!"</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-J">"Why certainly——"</voice></prosody><break time="500ms"/>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">began the Tortoise.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">But as he opened his mouth to say these foolish words he lost his hold on the stick, and down he fell to the ground, where he was dashed to pieces on a rock.</voice></prosody><break time="500ms"/>
+</speak>

@@ -1,0 +1,9 @@
+{
+    "Happiness": [],
+    "Sadness": [],
+    "Anger": [],
+    "Surprise": [8, 9],
+    "Fear": [],
+    "Disgust": [],
+    "Neutral": [1, 3]
+}

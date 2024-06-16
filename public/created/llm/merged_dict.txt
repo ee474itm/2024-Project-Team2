@@ -1,0 +1,21 @@
+{
+    "Junhee": {
+        "voice": "en-US-Neural2-G",
+        "sentences": [
+            2,
+            12,
+            16
+        ]
+    },
+    "Lion": {
+        "voice": "en-US-Neural2-D",
+        "sentences": [
+            5,
+            8,
+            10,
+            14,
+            17,
+            19
+        ]
+    }
+}

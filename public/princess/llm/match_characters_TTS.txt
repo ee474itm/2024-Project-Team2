@@ -1,0 +1,8 @@
+```json
+{
+    "Prince": "en-US-Neural2-I",
+    "Princess": "en-US-Neural2-G",
+    "Old King": "en-US-Neural2-J",
+    "Old Queen": "en-US-Neural2-C"
+}
+```

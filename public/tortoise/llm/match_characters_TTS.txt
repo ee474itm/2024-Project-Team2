@@ -1,0 +1,7 @@
+```json
+{
+    "Tortoise": "en-US-Neural2-D",
+    "Ducks": "en-US-Neural2-H",
+    "Crow": "en-US-Neural2-I"
+}
+```

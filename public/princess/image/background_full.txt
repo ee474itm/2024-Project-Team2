@@ -1,0 +1,47 @@
+# Scene 1
+@ Location: In a grand castle in the Heart of Denmark with majestic towers and lush gardens,
+@ Time: the evening sun makes a melancholic atmosphere.
+
+# Scene 2
+@ Location: In a grand castle in the Heart of Denmark with majestic towers and lush gardens,
+@ Time: the evening sun makes a contemplative atmosphere.
+
+# Scene 3
+@ Location: In a grand castle in the Heart of Denmark with majestic towers and lush gardens,
+@ Time: the evening sun makes a melancholic atmosphere.
+
+# Scene 4
+@ Location: In a grand castle in the Heart of Denmark with majestic towers and lush gardens,
+@ Time: the night storm makes a tempestuous atmosphere.
+
+# Scene 5
+@ Location: In a grand castle in the Heart of Denmark with an imposing gate and surrounding walls,
+@ Time: the stormy night makes an ominous atmosphere.
+
+# Scene 6
+@ Location: In a grand castle in the Heart of Denmark with an imposing gate and surrounding walls,
+@ Time: the stormy night makes a dramatic atmosphere.
+
+# Scene 7
+@ Location: Inside an opulent bedchamber in the castle with ornate furnishings,
+@ Time: the stormy night makes a tense atmosphere.
+
+# Scene 8
+@ Location: Inside an opulent bedchamber in the castle with ornate furnishings,
+@ Time: the stormy night makes a suspenseful atmosphere.
+
+# Scene 9
+@ Location: Inside an opulent bedchamber in the castle with ornate furnishings,
+@ Time: the calm morning sun makes a querying atmosphere.
+
+# Scene 10
+@ Location: Inside an opulent bedchamber in the castle with ornate furnishings,
+@ Time: the morning sun makes an unsettling atmosphere.
+
+# Scene 11
+@ Location: Inside an opulent bedchamber in the castle with ornate furnishings,
+@ Time: the morning sun makes a revelatory atmosphere.
+
+# Scene 12
+@ Location: In a grand castle in the Heart of Denmark with majestic towers and lush gardens,
+@ Time: the afternoon sun makes a joyous atmosphere.

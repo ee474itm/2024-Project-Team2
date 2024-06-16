@@ -1,0 +1,3 @@
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Once upon a time in a mystical forest, a young woman named Junhee, 24 years old, stumbled upon an injured lion.</voice></prosody><break time="500ms"/>
+</speak>

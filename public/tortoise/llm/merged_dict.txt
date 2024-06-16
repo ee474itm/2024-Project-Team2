@@ -1,0 +1,21 @@
+{
+    "Ducks": {
+        "voice": "en-US-Neural2-C",
+        "sentences": [
+            1,
+            3
+        ]
+    },
+    "Crow": {
+        "voice": "en-US-Neural2-I",
+        "sentences": [
+            8
+        ]
+    },
+    "Tortoise": {
+        "voice": "en-US-Neural2-J",
+        "sentences": [
+            9
+        ]
+    }
+}

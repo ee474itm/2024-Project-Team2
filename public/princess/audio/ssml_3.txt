@@ -1,0 +1,5 @@
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">One evening a terrible storm blew up.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">It lightened and thundered and rained.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">It was really frightful!</voice></prosody><break time="500ms"/>
+</speak>

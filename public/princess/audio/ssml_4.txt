@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">In the midst of it all came a knocking at the town gate.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">The old King went to open it.</voice></prosody><break time="500ms"/>
+</speak>

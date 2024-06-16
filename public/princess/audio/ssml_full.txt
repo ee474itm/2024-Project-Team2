@@ -1,0 +1,52 @@
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Once there was a Prince who wanted to marry a Princess.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Only a real one would do.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">So he traveled through all the world to find her, and everywhere things went wrong.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">There were Princesses aplenty, but how was he to know whether they were real Princesses?</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">There was something not quite right about them all.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">So he came home again and was unhappy, because he did so want to have a real Princess.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">One evening a terrible storm blew up.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">It lightened and thundered and rained.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">It was really frightful!</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">In the midst of it all came a knocking at the town gate.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">The old King went to open it.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Who should be standing outside but a Princess, and what a sight she was in all that rain and wind.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Water streamed from her hair down her clothes into her shoes, and ran out at the heels.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Yet she claimed to be a real Princess.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-C">"We'll soon find that out,"</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">the old Queen thought to herself.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Without saying a word about it she went to the bedchamber, stripped back the bedclothes, and put just one pea in the bottom of the bed.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Then she took twenty mattresses and piled them on the pea.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Then she took twenty eiderdown feather beds and piled them on the mattresses.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Up on top of all these the Princess was to spend the night.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">In the morning the Queen asked her,</voice></prosody><break time="500ms"/>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-C">"Did you sleep well?"</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-G">"Oh!"</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">said the Princess.</voice></prosody><break time="500ms"/>
+	<prosody rate="slow" pitch="-1st"><voice name="en-US-Neural2-G">"No. I scarcely slept at all. Heaven knows what's in that bed. I lay on something so hard that I'm black and blue all over. It was simply terrible."</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">They could see she was a real Princess and no question about it, now that she had felt one pea all the way through twenty mattresses and twenty more feather beds.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Nobody but a Princess could be so delicate.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">So the Prince made haste to marry her, because he knew he had found a real Princess.</voice></prosody><break time="500ms"/>
+</speak>

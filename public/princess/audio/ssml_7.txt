@@ -1,0 +1,5 @@
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Then she took twenty mattresses and piled them on the pea.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Then she took twenty eiderdown feather beds and piled them on the mattresses.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Up on top of all these the Princess was to spend the night.</voice></prosody><break time="500ms"/>
+</speak>

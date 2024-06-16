@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Junhee smiled.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-G">"Anyone would do the same. You're a magnificent creature."</voice></prosody><break time="500ms"/>
+</speak>

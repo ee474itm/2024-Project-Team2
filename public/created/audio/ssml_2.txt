@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="fast" pitch="3st"><voice name="en-US-Neural2-G">"Are you okay?"</voice></prosody><break time="500ms"/>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Junhee asked gently.</voice></prosody><break time="500ms"/>
+</speak>

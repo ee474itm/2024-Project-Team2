@@ -1,0 +1,5 @@
+<speak>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-G">"Oh!"</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">said the Princess.</voice></prosody><break time="500ms"/>
+	<prosody rate="slow" pitch="-1st"><voice name="en-US-Neural2-G">"No. I scarcely slept at all. Heaven knows what's in that bed. I lay on something so hard that I'm black and blue all over. It was simply terrible."</voice></prosody><break time="500ms"/>
+</speak>

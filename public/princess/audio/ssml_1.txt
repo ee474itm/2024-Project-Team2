@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">There were Princesses aplenty, but how was he to know whether they were real Princesses?</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">There was something not quite right about them all.</voice></prosody><break time="500ms"/>
+</speak>

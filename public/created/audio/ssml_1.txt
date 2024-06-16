@@ -1,0 +1,3 @@
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Fearlessly, she approached the magnificent creature.</voice></prosody><break time="500ms"/>
+</speak>

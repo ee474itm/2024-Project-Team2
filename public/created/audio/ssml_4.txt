@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Without hesitation, Junhee tended to the lion's wounds.</voice></prosody><break time="500ms"/>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">As she worked, she noticed the lion's eyes gleaming with gratitude.</voice></prosody><break time="500ms"/>
+</speak>

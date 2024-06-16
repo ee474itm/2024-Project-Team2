@@ -1,0 +1,5 @@
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Once there was a Prince who wanted to marry a Princess.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Only a real one would do.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">So he traveled through all the world to find her, and everywhere things went wrong.</voice></prosody><break time="500ms"/>
+</speak>

@@ -1,0 +1,5 @@
+<speak>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-C">"We can help you to see the world,"</voice></prosody><break time="500ms"/>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">said the Ducks.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-C">"Take hold of this stick with your teeth and we will carry you far up in the air where you can see the whole countryside. But keep quiet or you will be sorry."</voice></prosody><break time="500ms"/>
+</speak>

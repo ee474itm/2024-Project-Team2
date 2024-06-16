@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Junhee thought for a moment.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-G">"I wish for the wisdom to help others as I helped you."</voice></prosody><break time="500ms"/>
+</speak>

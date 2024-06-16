@@ -1,0 +1,19 @@
+```json
+{
+    "Tortoise": {
+        "gender": "male",
+        "age": "unknown",
+        "personality": ["habitual", "trusting", "talkative"]
+    },
+    "Ducks": {
+        "gender": "unknown",
+        "age": "unknown",
+        "personality": ["helpful", "adventurous", "cautious"]
+    },
+    "Crow": {
+        "gender": "male",
+        "age": "unknown",
+        "personality": ["curious", "observant"]
+    }
+}
+```

@@ -1,0 +1,24 @@
+```json
+{
+    "Prince": {
+        "gender": "male",
+        "age": "young adult",
+        "personality": ["determined", "romantic", "persevering"]
+    },
+    "Princess": {
+        "gender": "female",
+        "age": "young adult",
+        "personality": ["delicate", "resilient", "truthful"]
+    },
+    "Old King": {
+        "gender": "male",
+        "age": "elderly",
+        "personality": ["kind", "welcoming", "cautious"]
+    },
+    "Old Queen": {
+        "gender": "female",
+        "age": "elderly",
+        "personality": ["wise", "perceptive", "resourceful"]
+    }
+}
+```

@@ -1,0 +1,5 @@
+<speak>
+	<prosody rate="fast" pitch="1st"><voice name="en-US-Neural2-D">"Thank you, brave one,"</voice></prosody><break time="500ms"/>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">the lion said, his voice filled with warmth.</voice></prosody><break time="500ms"/>
+	<prosody rate="fast" pitch="1st"><voice name="en-US-Neural2-D">"You have a heart of gold."</voice></prosody><break time="500ms"/>
+</speak>

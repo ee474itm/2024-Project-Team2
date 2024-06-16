@@ -1,0 +1,5 @@
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Who should be standing outside but a Princess, and what a sight she was in all that rain and wind.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Water streamed from her hair down her clothes into her shoes, and ran out at the heels.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Yet she claimed to be a real Princess.</voice></prosody><break time="500ms"/>
+</speak>

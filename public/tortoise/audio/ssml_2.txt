@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">The Tortoise was very glad indeed.</voice></prosody><break time="500ms"/>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">He seized the stick firmly with his teeth, the two Ducks took hold of it one at each end, and away they sailed up toward the clouds.</voice></prosody><break time="500ms"/>
+</speak>

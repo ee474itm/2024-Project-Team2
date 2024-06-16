@@ -1,0 +1,3 @@
+<speak>
+	<prosody rate="slow"><voice name="en-US-Studio-Q">One day he met a pair of Ducks and told them all his trouble.</voice></prosody><break time="500ms"/>
+</speak>

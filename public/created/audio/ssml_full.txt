@@ -1,0 +1,43 @@
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Once upon a time in a mystical forest, a young woman named Junhee, 24 years old, stumbled upon an injured lion.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Fearlessly, she approached the magnificent creature.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast" pitch="3st"><voice name="en-US-Neural2-G">"Are you okay?"</voice></prosody><break time="500ms"/>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Junhee asked gently.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">The lion, to her astonishment, spoke back.</voice></prosody><break time="500ms"/>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-D">"I am hurt, kind human. Will you help me?"</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Without hesitation, Junhee tended to the lion's wounds.</voice></prosody><break time="500ms"/>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">As she worked, she noticed the lion's eyes gleaming with gratitude.</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast" pitch="1st"><voice name="en-US-Neural2-D">"Thank you, brave one,"</voice></prosody><break time="500ms"/>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">the lion said, his voice filled with warmth.</voice></prosody><break time="500ms"/>
+	<prosody rate="fast" pitch="1st"><voice name="en-US-Neural2-D">"You have a heart of gold."</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Junhee smiled.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-G">"Anyone would do the same. You're a magnificent creature."</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Healed, the lion stood majestically.</voice></prosody><break time="500ms"/>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-D">"As a token of my gratitude, I shall grant you a wish."</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">Junhee thought for a moment.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium" pitch="0st"><voice name="en-US-Neural2-G">"I wish for the wisdom to help others as I helped you."</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-D">"Granted,"</voice></prosody><break time="500ms"/>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">the lion roared softly.</voice></prosody><break time="500ms"/>
+	<prosody rate="fast" pitch="1st"><voice name="en-US-Neural2-D">"May your life be filled with kindness and wisdom."</voice></prosody><break time="500ms"/>
+</speak>
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">And so, Junhee's life blossomed with newfound wisdom, forever guided by the spirit of the grateful lion.</voice></prosody><break time="500ms"/>
+</speak>

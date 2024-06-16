@@ -1,0 +1,23 @@
+# Scene 1
+@ Location: In a serene hillside in the Lake District with rolling green meadows,
+@ Time: the morning sun makes a peaceful atmosphere.
+
+# Scene 2
+@ Location: In a serene hillside in the Lake District with rolling green meadows,
+@ Time: the morning sun makes a peaceful atmosphere.
+
+# Scene 3
+@ Location: In a serene hillside in the Lake District with rolling green meadows,
+@ Time: the morning sun makes a peaceful atmosphere.
+
+# Scene 4
+@ Location: In a serene hillside in the Lake District with rolling green meadows,
+@ Time: the morning sun makes a peaceful atmosphere.
+
+# Scene 5
+@ Location: In a serene hillside in the Lake District with rolling green meadows,
+@ Time: the morning sun makes a peaceful atmosphere.
+
+# Scene 6
+@ Location: In a serene hillside in the Lake District with rolling green meadows,
+@ Time: the morning sun makes a peaceful atmosphere.

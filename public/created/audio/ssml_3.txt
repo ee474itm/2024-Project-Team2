@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="fast"><voice name="en-US-Studio-Q">The lion, to her astonishment, spoke back.</voice></prosody><break time="500ms"/>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-D">"I am hurt, kind human. Will you help me?"</voice></prosody><break time="500ms"/>
+</speak>

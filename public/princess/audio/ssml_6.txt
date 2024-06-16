@@ -1,0 +1,5 @@
+<speak>
+	<prosody rate="fast" pitch="4st"><voice name="en-US-Neural2-C">"We'll soon find that out,"</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">the old Queen thought to herself.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Without saying a word about it she went to the bedchamber, stripped back the bedclothes, and put just one pea in the bottom of the bed.</voice></prosody><break time="500ms"/>
+</speak>

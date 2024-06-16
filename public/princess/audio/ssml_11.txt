@@ -1,0 +1,4 @@
+<speak>
+	<prosody rate="medium"><voice name="en-US-Studio-O">Nobody but a Princess could be so delicate.</voice></prosody><break time="500ms"/>
+	<prosody rate="medium"><voice name="en-US-Studio-O">So the Prince made haste to marry her, because he knew he had found a real Princess.</voice></prosody><break time="500ms"/>
+</speak>

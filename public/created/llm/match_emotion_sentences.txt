@@ -1,0 +1,11 @@
+```json
+{
+    "Happiness": [8, 10, 19],
+    "Sadness": [],
+    "Anger": [],
+    "Surprise": [5, 14, 17],
+    "Fear": [2],
+    "Disgust": [],
+    "Neutral": [12, 16]
+}
+```

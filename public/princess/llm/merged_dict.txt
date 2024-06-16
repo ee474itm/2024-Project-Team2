@@ -1,0 +1,16 @@
+{
+    "Old Queen": {
+        "voice": "en-US-Neural2-C",
+        "sentences": [
+            14,
+            21
+        ]
+    },
+    "Princess": {
+        "voice": "en-US-Neural2-G",
+        "sentences": [
+            22,
+            24
+        ]
+    }
+}
