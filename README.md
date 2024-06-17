@@ -1,6 +1,6 @@
 # Beyond-the-Page: AI-Powered Multimedia Book for Children
 
-By integrating user inputs with advanced AI technologies such as large language models (LLMs), image generation models, and text-tospeech (TTS) systems, our project produces engaging multimedia books that combine text, images, and audio.
+By integrating user inputs with advanced AI technologies such as large language models (LLMs), image generation models, and text-to-speech (TTS) systems, our project produces engaging multimedia books that combine text, images, and audio.
 
 ## Run the code
 
